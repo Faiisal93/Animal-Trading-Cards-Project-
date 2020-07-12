@@ -1,0 +1,39 @@
+#fact {
+  font-style: italic;
+}
+
+.info {
+  font-weight: bold;
+}
+#card-container {
+  border: 1px solid #000;
+  padding: 10px;
+  width: 400px;
+  background-color: #ffffff;
+  margin: 10px auto;
+  box-shadow: 3px 1px  #4dc3ff;
+
+}
+.t1 {
+  text-align: center;
+}
+
+#details-container {
+  border: 1px solid #000;
+  padding: 10px;
+}
+#card-container img {
+  width: 300px;
+  height: auto;
+margin: 10px auto;
+ margin-bottom: 10px;
+ display: block;
+}
+body {
+ background-image: url("https://live.staticflickr.com/1588/24336739220_85c847a1e0_b.jpg");
+ background-repeat: no-repeat, repeat;
+ background-size: cover,auto;
+
+ background-color: #cccccc;
+
+}
